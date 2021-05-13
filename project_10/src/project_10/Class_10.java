@@ -15,7 +15,7 @@ public class Class_10 {
 		public void sum()
 		{
 			
-			int a= 2;
+			int a= 5;
 			int b =4;
 			int c =(a+ b);
 			
